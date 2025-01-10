@@ -27,9 +27,13 @@ nav {
 .dark-2{
   color: #474747;
 }
+.cc{ 
+  color: #FD6E0A;
+}
 
-.bb{
+.bb {
   color: #FD6E0A ;
+  
 }
 .header{
   background-image: url(../images/developer.png), url(../images/header_bg.png);
